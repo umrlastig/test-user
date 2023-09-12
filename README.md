@@ -197,11 +197,11 @@ Only some advanced modification of the template requires the edition of the main
 ### Photo
 If you want to put a photo (it is recommended but not forced), please use a square 256*256 photo to make sure the photo is nicely displayed in the "members" sections of the website.
 
-The location of the photo file is defined in the first lines of the *index.html* (here img/touya.png):
+The location of the photo file is defined in the first lines of the *index.html* (here img/abstract-user-icon.svg):
 
 ```html
 <span class="d-none d-lg-block">
-  <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/touya.png" alt="">
+  <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/abstract-user-icon.svg" alt="">
 </span>
 ```
 
